@@ -1,0 +1,4710 @@
+{
+    "sys": {
+        "type": "Array"
+    },
+    "total": 100,
+    "skip": 0,
+    "limit": 100,
+    "items": [
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4HZHurmc8Ld78PNnI1ReYh",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:08.012Z",
+                "updatedAt": "2024-01-23T21:47:08.012Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "ZIMPDOPD",
+                "name": "Apple Mi Watch",
+                "brand": "Apple",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "Rose Gold",
+                "price": 1410.29,
+                "currency": "USD",
+                "stock": 7
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3ZxS5MCw4W3R8rcN1SdQB7",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.975Z",
+                "updatedAt": "2024-01-23T21:47:07.975Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "O53YSHQL",
+                "name": "Dell Moto G7",
+                "brand": "Dell",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "Blue",
+                "price": 1829.92,
+                "currency": "USD",
+                "stock": 75
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3LO1GPO3x1hjnVFzAp7V6S",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.900Z",
+                "updatedAt": "2024-01-23T21:47:07.900Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "UVBY6AR9",
+                "name": "Apple Watch Series 7",
+                "brand": "Apple",
+                "model": "Watch Series 7",
+                "category": "Smartwatch",
+                "color": "Black",
+                "price": 133.6,
+                "currency": "USD",
+                "stock": 54
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6Nj5cWcuVoIPDJfZ72Lheb",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.862Z",
+                "updatedAt": "2024-01-23T21:47:07.862Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "UEBN4YX5",
+                "name": "Samsung iPhone 13",
+                "brand": "Samsung",
+                "model": "iPhone 13",
+                "category": "Smartphone",
+                "color": "Green",
+                "price": 1855.43,
+                "currency": "USD",
+                "stock": 36
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "AgIYlVoYCrTAIASSu9vnS",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.460Z",
+                "updatedAt": "2024-01-23T21:47:07.460Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "FRGJWMXC",
+                "name": "HP QuietComfort 35",
+                "brand": "HP",
+                "model": "QuietComfort 35",
+                "category": "Headphones",
+                "color": "Rose Gold",
+                "price": 806.45,
+                "currency": "USD",
+                "stock": 101
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "46vsqDaDYQH9R82adCwCig",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.317Z",
+                "updatedAt": "2024-01-23T21:47:07.317Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "T7JQPVWB",
+                "name": "Acer ZenBook 14",
+                "brand": "Acer",
+                "model": "ZenBook 14",
+                "category": "Laptop",
+                "color": "Black",
+                "price": 125.43,
+                "currency": "USD",
+                "stock": 169
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3xheFG1jPBA71Wd7FEOPJE",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.281Z",
+                "updatedAt": "2024-01-23T21:47:07.281Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "PUBF8KG9",
+                "name": "Samsung Vivoactive 4",
+                "brand": "Samsung",
+                "model": "Vivoactive 4",
+                "category": "Smartwatch",
+                "color": "Red",
+                "price": 713.56,
+                "currency": "USD",
+                "stock": 55
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "2LYN4JdYslrfoivLVJTy0H",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.249Z",
+                "updatedAt": "2024-01-23T21:47:07.249Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "R4TJ1IVS",
+                "name": "Asus HD 450BT",
+                "brand": "Asus",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Gray",
+                "price": 1149.82,
+                "currency": "USD",
+                "stock": 23
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5tKdXbJo5EOJqxbALZ7coh",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.215Z",
+                "updatedAt": "2024-01-23T21:47:07.215Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "7I88GSUF",
+                "name": "Sony Lumix GH5",
+                "brand": "Sony",
+                "model": "Lumix GH5",
+                "category": "Camera",
+                "color": "Rose Gold",
+                "price": 518.29,
+                "currency": "USD",
+                "stock": 172
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "31nh2Qf5DG8tft8nMk2F5x",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.177Z",
+                "updatedAt": "2024-01-23T21:47:07.177Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "R908CPA7",
+                "name": "LG ZenBook 14",
+                "brand": "LG",
+                "model": "ZenBook 14",
+                "category": "Laptop",
+                "color": "Purple",
+                "price": 122.18,
+                "currency": "USD",
+                "stock": 137
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "mEr7EtjjiNSnFtULAEJMo",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.126Z",
+                "updatedAt": "2024-01-23T21:47:07.126Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "T348VOUG",
+                "name": "Panasonic MediaPad M5",
+                "brand": "Panasonic",
+                "model": "MediaPad M5",
+                "category": "Tablet",
+                "color": "Blue",
+                "price": 1044.69,
+                "currency": "USD",
+                "stock": 87
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "sSQ4LpSwDIZ4iOLuyvv25",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.090Z",
+                "updatedAt": "2024-01-23T21:47:07.090Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "PT06KQ57",
+                "name": "Dell ThinkPad X1",
+                "brand": "Dell",
+                "model": "ThinkPad X1",
+                "category": "Laptop",
+                "color": "Purple",
+                "price": 457.73,
+                "currency": "USD",
+                "stock": 148
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "FR1giCYgMWKPt0n9AeGeo",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.057Z",
+                "updatedAt": "2024-01-23T21:47:07.057Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "WGO6N8GK",
+                "name": "HP Watch Series 7",
+                "brand": "HP",
+                "model": "Watch Series 7",
+                "category": "Smartwatch",
+                "color": "Blue",
+                "price": 1887.38,
+                "currency": "USD",
+                "stock": 199
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "P7KF2h75oMFRKNmxq1EIl",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:07.025Z",
+                "updatedAt": "2024-01-23T21:47:07.025Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "PXT8I2VC",
+                "name": "Acer Tab S7",
+                "brand": "Acer",
+                "model": "Tab S7",
+                "category": "Tablet",
+                "color": "Rose Gold",
+                "price": 767.75,
+                "currency": "USD",
+                "stock": 93
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1m3lSEorropPWuTbo3rVU2",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.987Z",
+                "updatedAt": "2024-01-23T21:47:06.987Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "X87ORBXT",
+                "name": "Samsung Tab S7",
+                "brand": "Samsung",
+                "model": "Tab S7",
+                "category": "Tablet",
+                "color": "Purple",
+                "price": 515.81,
+                "currency": "USD",
+                "stock": 84
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "7pXVKSC5tswcsYKl2NIzRG",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.955Z",
+                "updatedAt": "2024-01-23T21:47:06.955Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "NB99GBQQ",
+                "name": "Dell Watch Series 7",
+                "brand": "Dell",
+                "model": "Watch Series 7",
+                "category": "Smartwatch",
+                "color": "Silver",
+                "price": 1560.25,
+                "currency": "USD",
+                "stock": 197
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "2AQxX92m191z9YpXa4E6fc",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.921Z",
+                "updatedAt": "2024-01-23T21:47:06.921Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "266JZZZ8",
+                "name": "Sony Moto G7",
+                "brand": "Sony",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "White",
+                "price": 1786.34,
+                "currency": "USD",
+                "stock": 132
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5PbFWSZJ79DGrmFthjM6Tg",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.882Z",
+                "updatedAt": "2024-01-23T21:47:06.882Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "7C6KTQ2L",
+                "name": "Panasonic HD 450BT",
+                "brand": "Panasonic",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Red",
+                "price": 884.42,
+                "currency": "USD",
+                "stock": 169
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3exMuAwtfeOFlcBUDVGgx2",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.847Z",
+                "updatedAt": "2024-01-23T21:47:06.847Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "74FAVSQ0",
+                "name": "Samsung QuietComfort 35",
+                "brand": "Samsung",
+                "model": "QuietComfort 35",
+                "category": "Headphones",
+                "color": "Silver",
+                "price": 1184.41,
+                "currency": "USD",
+                "stock": 123
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5uijT8jCAzh0WVqSXkMBAg",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:47:06.563Z",
+                "updatedAt": "2024-01-23T21:47:06.563Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "LOOH7DGL",
+                "name": "Lenovo Mi Watch",
+                "brand": "Lenovo",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "Silver",
+                "price": 1854.64,
+                "currency": "USD",
+                "stock": 54
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3FFTUNHCWpKQ4m5qjkGN4f",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.867Z",
+                "updatedAt": "2024-01-23T21:46:32.867Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "UWGS0WVU",
+                "name": "Acer HD 450BT",
+                "brand": "Acer",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Red",
+                "price": 342.08,
+                "currency": "USD",
+                "stock": 45
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3PxXOfrTR4HzTdBjuXASDH",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.835Z",
+                "updatedAt": "2024-01-23T21:46:32.835Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "HSO2RZI0",
+                "name": "Asus QuietComfort 35",
+                "brand": "Asus",
+                "model": "QuietComfort 35",
+                "category": "Headphones",
+                "color": "Red",
+                "price": 346.01,
+                "currency": "USD",
+                "stock": 69
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4NCSS1ONqjN1JmSMi2QF6t",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.798Z",
+                "updatedAt": "2024-01-23T21:46:32.798Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "9MP4MK95",
+                "name": "LG EOS R5",
+                "brand": "LG",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Purple",
+                "price": 1599.81,
+                "currency": "USD",
+                "stock": 151
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4qJXDCv2BvZaTxWjEMp4O9",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.767Z",
+                "updatedAt": "2024-01-23T21:46:32.767Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "8I8TZE8P",
+                "name": "Panasonic iPad Air",
+                "brand": "Panasonic",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "Red",
+                "price": 1781.5,
+                "currency": "USD",
+                "stock": 86
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4E3rGv4fxNlftcz47Tn1v0",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.733Z",
+                "updatedAt": "2024-01-23T21:46:32.733Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "BH5Q1FNJ",
+                "name": "Asus Surface Pro",
+                "brand": "Asus",
+                "model": "Surface Pro",
+                "category": "Tablet",
+                "color": "Blue",
+                "price": 1206.31,
+                "currency": "USD",
+                "stock": 48
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6ilXMfxQNmmPuB4CrjbMqn",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.700Z",
+                "updatedAt": "2024-01-23T21:46:32.700Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "K4FLBAZH",
+                "name": "Acer Xperia 10",
+                "brand": "Acer",
+                "model": "Xperia 10",
+                "category": "Smartphone",
+                "color": "Green",
+                "price": 1489.47,
+                "currency": "USD",
+                "stock": 73
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3dSmEKSejkj0NMaj1w8xQW",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.666Z",
+                "updatedAt": "2024-01-23T21:46:32.666Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "HX7HJCH8",
+                "name": "Asus QuietComfort 35",
+                "brand": "Asus",
+                "model": "QuietComfort 35",
+                "category": "Headphones",
+                "color": "Gray",
+                "price": 1624.73,
+                "currency": "USD",
+                "stock": 8
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1nBJh5Kta88JL9Tvia6zRd",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.366Z",
+                "updatedAt": "2024-01-23T21:46:32.366Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "6J8A8U9F",
+                "name": "Dell Moto G7",
+                "brand": "Dell",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "Rose Gold",
+                "price": 548.15,
+                "currency": "USD",
+                "stock": 198
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1LTuZEwgY2C0fLl1JImfYL",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.232Z",
+                "updatedAt": "2024-01-23T21:46:32.232Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "7CQEOZ22",
+                "name": "Panasonic iPad Air",
+                "brand": "Panasonic",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "White",
+                "price": 105.04,
+                "currency": "USD",
+                "stock": 110
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3CiUj6CktZqFpg0eIKmeP",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.200Z",
+                "updatedAt": "2024-01-23T21:46:32.200Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "HTFTZLCL",
+                "name": "Apple Mi Watch",
+                "brand": "Apple",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "Red",
+                "price": 1108.65,
+                "currency": "USD",
+                "stock": 155
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6EfwA000uPfHkE3wdeCLQg",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.168Z",
+                "updatedAt": "2024-01-23T21:46:32.168Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "GRSBSKHP",
+                "name": "Acer ZenBook 14",
+                "brand": "Acer",
+                "model": "ZenBook 14",
+                "category": "Laptop",
+                "color": "Blue",
+                "price": 1788.46,
+                "currency": "USD",
+                "stock": 184
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "c4d0q0PNBpRSUmzq3igMH",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.131Z",
+                "updatedAt": "2024-01-23T21:46:32.131Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "D6GZMNCD",
+                "name": "LG ZenBook 14",
+                "brand": "LG",
+                "model": "ZenBook 14",
+                "category": "Laptop",
+                "color": "Black",
+                "price": 1782.96,
+                "currency": "USD",
+                "stock": 186
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3CGfV0tqhqL5gPsl9G7Jyj",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.095Z",
+                "updatedAt": "2024-01-23T21:46:32.095Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "FZ1SYBH3",
+                "name": "Asus Yoga Tab",
+                "brand": "Asus",
+                "model": "Yoga Tab",
+                "category": "Tablet",
+                "color": "Purple",
+                "price": 1510.62,
+                "currency": "USD",
+                "stock": 68
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "i3YpuVbWY2f7k4YVpNBBm",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.058Z",
+                "updatedAt": "2024-01-23T21:46:32.058Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "4CCJGVGI",
+                "name": "Panasonic Lumix GH5",
+                "brand": "Panasonic",
+                "model": "Lumix GH5",
+                "category": "Camera",
+                "color": "Green",
+                "price": 559.47,
+                "currency": "USD",
+                "stock": 149
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "722jR6tiCJJYOF4Xojndh",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:32.026Z",
+                "updatedAt": "2024-01-23T21:46:32.026Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "K872XLR8",
+                "name": "Lenovo OM-D E-M10",
+                "brand": "Lenovo",
+                "model": "OM-D E-M10",
+                "category": "Camera",
+                "color": "Blue",
+                "price": 546.84,
+                "currency": "USD",
+                "stock": 131
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4NKyr5AHsbFuFIbZYYspu2",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.992Z",
+                "updatedAt": "2024-01-23T21:46:31.992Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "Y7510GNM",
+                "name": "Panasonic HD 450BT",
+                "brand": "Panasonic",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Black",
+                "price": 856.1,
+                "currency": "USD",
+                "stock": 198
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1zAq6l3cbu30pFz3DF7suY",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.960Z",
+                "updatedAt": "2024-01-23T21:46:31.960Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "IG0DWVCW",
+                "name": "Sony EOS R5",
+                "brand": "Sony",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Red",
+                "price": 217.49,
+                "currency": "USD",
+                "stock": 72
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6keRnePTYYG4FgERxNDATO",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.927Z",
+                "updatedAt": "2024-01-23T21:46:31.927Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "A1Y3FQPR",
+                "name": "Dell Moto G7",
+                "brand": "Dell",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "Green",
+                "price": 684.17,
+                "currency": "USD",
+                "stock": 40
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "29Inbs4yKMO0uDC2T9xRkJ",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.892Z",
+                "updatedAt": "2024-01-23T21:46:31.892Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "7MHVICRU",
+                "name": "Apple Vivoactive 4",
+                "brand": "Apple",
+                "model": "Vivoactive 4",
+                "category": "Smartwatch",
+                "color": "Silver",
+                "price": 372.54,
+                "currency": "USD",
+                "stock": 67
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1Xb2CclaLiUyD306FJCbIQ",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.858Z",
+                "updatedAt": "2024-01-23T21:46:31.858Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "5RWE2SX5",
+                "name": "Samsung Lumix GH5",
+                "brand": "Samsung",
+                "model": "Lumix GH5",
+                "category": "Camera",
+                "color": "Red",
+                "price": 1938.74,
+                "currency": "USD",
+                "stock": 187
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4zRQSuT7wkEogtgMrajTYr",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.827Z",
+                "updatedAt": "2024-01-23T21:46:31.827Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "XDQ9IMAX",
+                "name": "Asus Inspiron 15",
+                "brand": "Asus",
+                "model": "Inspiron 15",
+                "category": "Laptop",
+                "color": "Red",
+                "price": 521.73,
+                "currency": "USD",
+                "stock": 30
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "2Ueofh9vg9QcLOo3bJ3yJ1",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.793Z",
+                "updatedAt": "2024-01-23T21:46:31.793Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "IE6JX88J",
+                "name": "Apple MediaPad M5",
+                "brand": "Apple",
+                "model": "MediaPad M5",
+                "category": "Tablet",
+                "color": "White",
+                "price": 729.54,
+                "currency": "USD",
+                "stock": 199
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "7xlfxxqP5tip2spGDHI4zu",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.757Z",
+                "updatedAt": "2024-01-23T21:46:31.757Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "JTEKQLUI",
+                "name": "Sony Moto G7",
+                "brand": "Sony",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "Blue",
+                "price": 338.03,
+                "currency": "USD",
+                "stock": 79
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1ApPOXtobfZi2eBWuqFvnt",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.723Z",
+                "updatedAt": "2024-01-23T21:46:31.723Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "SEFMSR0C",
+                "name": "Apple Lumix GH5",
+                "brand": "Apple",
+                "model": "Lumix GH5",
+                "category": "Camera",
+                "color": "Black",
+                "price": 1377.33,
+                "currency": "USD",
+                "stock": 8
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "7KfqpW4ex9JIo2BZ7u3hF7",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.687Z",
+                "updatedAt": "2024-01-23T21:46:31.687Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "DJY7NF1T",
+                "name": "Acer Elite 85h",
+                "brand": "Acer",
+                "model": "Elite 85h",
+                "category": "Headphones",
+                "color": "White",
+                "price": 896.31,
+                "currency": "USD",
+                "stock": 196
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "2hMhoKlOIL2xeUyzk9Y37Z",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.652Z",
+                "updatedAt": "2024-01-23T21:46:31.652Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "Z6N8J9T0",
+                "name": "Sony QuietComfort 35",
+                "brand": "Sony",
+                "model": "QuietComfort 35",
+                "category": "Headphones",
+                "color": "Purple",
+                "price": 1945.56,
+                "currency": "USD",
+                "stock": 134
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5sQDQlwbze1md4GncMt67B",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.620Z",
+                "updatedAt": "2024-01-23T21:46:31.620Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "EM2F5J4C",
+                "name": "Lenovo MacBook Pro",
+                "brand": "Lenovo",
+                "model": "MacBook Pro",
+                "category": "Laptop",
+                "color": "Silver",
+                "price": 468.46,
+                "currency": "USD",
+                "stock": 176
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "13GyNAhyXmHG8cG3IpmI6g",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.566Z",
+                "updatedAt": "2024-01-23T21:46:31.566Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "6PJIPX50",
+                "name": "Lenovo ThinkPad X1",
+                "brand": "Lenovo",
+                "model": "ThinkPad X1",
+                "category": "Laptop",
+                "color": "White",
+                "price": 340.16,
+                "currency": "USD",
+                "stock": 58
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "NPCklafNQj796KXpUOv0v",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.536Z",
+                "updatedAt": "2024-01-23T21:46:31.536Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "AOR7PVXJ",
+                "name": "Lenovo Mi Watch",
+                "brand": "Lenovo",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "White",
+                "price": 1239.31,
+                "currency": "USD",
+                "stock": 41
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "Bxzdmhtc6HXlObrcA6haR",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.501Z",
+                "updatedAt": "2024-01-23T21:46:31.501Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "OD4U5FYC",
+                "name": "Sony OM-D E-M10",
+                "brand": "Sony",
+                "model": "OM-D E-M10",
+                "category": "Camera",
+                "color": "Blue",
+                "price": 1400.13,
+                "currency": "USD",
+                "stock": 66
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5THO9Yre5mbtFoKeS3Vhs7",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.464Z",
+                "updatedAt": "2024-01-23T21:46:31.464Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "6O6SMMC6",
+                "name": "Dell EOS R5",
+                "brand": "Dell",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Black",
+                "price": 145.23,
+                "currency": "USD",
+                "stock": 3
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3Hn2ENWGGtrsnL4zuEc2ny",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.333Z",
+                "updatedAt": "2024-01-23T21:46:31.333Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "3SV47ZA9",
+                "name": "Sony Watch Series 7",
+                "brand": "Sony",
+                "model": "Watch Series 7",
+                "category": "Smartwatch",
+                "color": "Blue",
+                "price": 1855.28,
+                "currency": "USD",
+                "stock": 108
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4u0Mkfu1lzzjcgmACW81GL",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.297Z",
+                "updatedAt": "2024-01-23T21:46:31.297Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "BJICGM7E",
+                "name": "Acer iPhone 13",
+                "brand": "Acer",
+                "model": "iPhone 13",
+                "category": "Smartphone",
+                "color": "Green",
+                "price": 1423.41,
+                "currency": "USD",
+                "stock": 198
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6fcQsY4oDyLgBMRPJspZQq",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:31.259Z",
+                "updatedAt": "2024-01-23T21:46:31.259Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "QMLJ6KKT",
+                "name": "Sony MediaPad M5",
+                "brand": "Sony",
+                "model": "MediaPad M5",
+                "category": "Tablet",
+                "color": "Gray",
+                "price": 369.5,
+                "currency": "USD",
+                "stock": 111
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4rPfQTw5AKyvecgLVaJCoy",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.982Z",
+                "updatedAt": "2024-01-23T21:46:30.982Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "QH41J81L",
+                "name": "Asus Galaxy Watch 4",
+                "brand": "Asus",
+                "model": "Galaxy Watch 4",
+                "category": "Smartwatch",
+                "color": "Black",
+                "price": 1108.27,
+                "currency": "USD",
+                "stock": 107
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6hJ1ENOOL5B36bKQ9ywaSb",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.876Z",
+                "updatedAt": "2024-01-23T21:46:30.876Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "AD5MHDOC",
+                "name": "Panasonic EOS R5",
+                "brand": "Panasonic",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "White",
+                "price": 294.74,
+                "currency": "USD",
+                "stock": 28
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3GdsejO0vbCiMq8gLDq4Rb",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.714Z",
+                "updatedAt": "2024-01-23T21:46:30.714Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "VFO7TEUQ",
+                "name": "Acer ThinkPad X1",
+                "brand": "Acer",
+                "model": "ThinkPad X1",
+                "category": "Laptop",
+                "color": "Purple",
+                "price": 740.78,
+                "currency": "USD",
+                "stock": 176
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "54pfWgoIEH9yZ3aS2eMaLX",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.674Z",
+                "updatedAt": "2024-01-23T21:46:30.674Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "IJ79J0F3",
+                "name": "Panasonic Lumix GH5",
+                "brand": "Panasonic",
+                "model": "Lumix GH5",
+                "category": "Camera",
+                "color": "Silver",
+                "price": 848.6,
+                "currency": "USD",
+                "stock": 47
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1qZHKt70BG52KDCA8glKxZ",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.631Z",
+                "updatedAt": "2024-01-23T21:46:30.631Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "3I6WFUW9",
+                "name": "Acer Xperia 10",
+                "brand": "Acer",
+                "model": "Xperia 10",
+                "category": "Smartphone",
+                "color": "Rose Gold",
+                "price": 1048.73,
+                "currency": "USD",
+                "stock": 184
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "7ElnGyVZxyr7bft24Q90SC",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:46:30.536Z",
+                "updatedAt": "2024-01-23T21:46:30.536Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "DNABARV4",
+                "name": "Dell Surface Pro",
+                "brand": "Dell",
+                "model": "Surface Pro",
+                "category": "Tablet",
+                "color": "Rose Gold",
+                "price": 1899.32,
+                "currency": "USD",
+                "stock": 139
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3Qzu0mqQRpJs9GL9fITJmn",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:54.013Z",
+                "updatedAt": "2024-01-23T21:44:54.013Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "1Y5BCDRY",
+                "name": "Acer WH-1000XM4",
+                "brand": "Acer",
+                "model": "WH-1000XM4",
+                "category": "Headphones",
+                "color": "Purple",
+                "price": 362.78,
+                "currency": "USD",
+                "stock": 133
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "33d07MhnKEiwZug9YHTuQs",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.975Z",
+                "updatedAt": "2024-01-23T21:44:53.975Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "35HDI70U",
+                "name": "LG MediaPad M5",
+                "brand": "LG",
+                "model": "MediaPad M5",
+                "category": "Tablet",
+                "color": "Blue",
+                "price": 1903.84,
+                "currency": "USD",
+                "stock": 129
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6AnnohslMw2uPLoHhsnooi",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.942Z",
+                "updatedAt": "2024-01-23T21:44:53.942Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "SVHRBT5E",
+                "name": "Asus EOS R5",
+                "brand": "Asus",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Red",
+                "price": 560.26,
+                "currency": "USD",
+                "stock": 190
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4tCUwTlsgJkSj6Az5QPQeV",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.907Z",
+                "updatedAt": "2024-01-23T21:44:53.907Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "A6BO02OL",
+                "name": "Apple Gear S3",
+                "brand": "Apple",
+                "model": "Gear S3",
+                "category": "Smartwatch",
+                "color": "Red",
+                "price": 313.62,
+                "currency": "USD",
+                "stock": 50
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4T0AGygCmaoO9GNk4VnjXw",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.871Z",
+                "updatedAt": "2024-01-23T21:44:53.871Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "S85CRD9S",
+                "name": "Sony MediaPad M5",
+                "brand": "Sony",
+                "model": "MediaPad M5",
+                "category": "Tablet",
+                "color": "Rose Gold",
+                "price": 111.97,
+                "currency": "USD",
+                "stock": 93
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "59eiW9LqEKuBpmeShEZyp3",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.837Z",
+                "updatedAt": "2024-01-23T21:44:53.837Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "DN627UJ5",
+                "name": "Samsung Galaxy S21",
+                "brand": "Samsung",
+                "model": "Galaxy S21",
+                "category": "Smartphone",
+                "color": "Purple",
+                "price": 494.52,
+                "currency": "USD",
+                "stock": 170
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4PZ08zGaLVuTSrXhEVUTjP",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.805Z",
+                "updatedAt": "2024-01-23T21:44:53.805Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "E7OZIKB4",
+                "name": "Asus X-T4",
+                "brand": "Asus",
+                "model": "X-T4",
+                "category": "Camera",
+                "color": "Gray",
+                "price": 53.12,
+                "currency": "USD",
+                "stock": 160
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1UPsekLCZEruIPL0zVmysb",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.772Z",
+                "updatedAt": "2024-01-23T21:44:53.772Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "OK1AE2VI",
+                "name": "Lenovo Mi Watch",
+                "brand": "Lenovo",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "Purple",
+                "price": 1536.51,
+                "currency": "USD",
+                "stock": 83
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6jXplQrENONPDVwjCWxYAG",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.739Z",
+                "updatedAt": "2024-01-23T21:44:53.739Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "W2I4XDY9",
+                "name": "Dell iPhone 13",
+                "brand": "Dell",
+                "model": "iPhone 13",
+                "category": "Smartphone",
+                "color": "White",
+                "price": 1813.77,
+                "currency": "USD",
+                "stock": 98
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "295tCQ66kvlhH3plIBhOGu",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.708Z",
+                "updatedAt": "2024-01-23T21:44:53.708Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "1U31YZWN",
+                "name": "LG AirPods Max",
+                "brand": "LG",
+                "model": "AirPods Max",
+                "category": "Headphones",
+                "color": "Rose Gold",
+                "price": 1311.92,
+                "currency": "USD",
+                "stock": 161
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5HBPtwyyO3gxy3fGEMdPTz",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.673Z",
+                "updatedAt": "2024-01-23T21:44:53.673Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "9AW4T22M",
+                "name": "Acer Vivoactive 4",
+                "brand": "Acer",
+                "model": "Vivoactive 4",
+                "category": "Smartwatch",
+                "color": "Gray",
+                "price": 579.09,
+                "currency": "USD",
+                "stock": 126
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6tPTsOnRsqURL0ceManbK9",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.638Z",
+                "updatedAt": "2024-01-23T21:44:53.638Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "8WLMTEIS",
+                "name": "Apple OM-D E-M10",
+                "brand": "Apple",
+                "model": "OM-D E-M10",
+                "category": "Camera",
+                "color": "Blue",
+                "price": 419.43,
+                "currency": "USD",
+                "stock": 101
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6AXynxlSYRClPjDKZgEw6c",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.604Z",
+                "updatedAt": "2024-01-23T21:44:53.604Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "QAFX1NYM",
+                "name": "Samsung EOS R5",
+                "brand": "Samsung",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Purple",
+                "price": 419.75,
+                "currency": "USD",
+                "stock": 157
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "mPABsHvk9bm1ac57RYy4O",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.570Z",
+                "updatedAt": "2024-01-23T21:44:53.570Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "NPHK2Z2F",
+                "name": "Dell Galaxy Watch 4",
+                "brand": "Dell",
+                "model": "Galaxy Watch 4",
+                "category": "Smartwatch",
+                "color": "Red",
+                "price": 1729.89,
+                "currency": "USD",
+                "stock": 146
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6oiXzKHHY5MnwzoGIfPMzZ",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.534Z",
+                "updatedAt": "2024-01-23T21:44:53.534Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "S853O500",
+                "name": "Apple Galaxy Watch 4",
+                "brand": "Apple",
+                "model": "Galaxy Watch 4",
+                "category": "Smartwatch",
+                "color": "Red",
+                "price": 1292.54,
+                "currency": "USD",
+                "stock": 93
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "28OcGlcD9vkIJ9PmO0O3e0",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.500Z",
+                "updatedAt": "2024-01-23T21:44:53.500Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "MQO3D6XO",
+                "name": "Dell Yoga Tab",
+                "brand": "Dell",
+                "model": "Yoga Tab",
+                "category": "Tablet",
+                "color": "Red",
+                "price": 1736.58,
+                "currency": "USD",
+                "stock": 163
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1ZtdRQmAhAylgb8JkYNIjC",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.461Z",
+                "updatedAt": "2024-01-23T21:44:53.461Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "75AACE7L",
+                "name": "Lenovo Pavilion 15",
+                "brand": "Lenovo",
+                "model": "Pavilion 15",
+                "category": "Laptop",
+                "color": "White",
+                "price": 1556.83,
+                "currency": "USD",
+                "stock": 42
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "FbmbcYrbKzA1mpGJXhAas",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.428Z",
+                "updatedAt": "2024-01-23T21:44:53.428Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "JOEMPT69",
+                "name": "Samsung Galaxy S21",
+                "brand": "Samsung",
+                "model": "Galaxy S21",
+                "category": "Smartphone",
+                "color": "Green",
+                "price": 1839.01,
+                "currency": "USD",
+                "stock": 43
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6QuUFNs60afS6ETahagigw",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.397Z",
+                "updatedAt": "2024-01-23T21:44:53.397Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "907KCY9R",
+                "name": "Apple Alpha A7",
+                "brand": "Apple",
+                "model": "Alpha A7",
+                "category": "Camera",
+                "color": "White",
+                "price": 166.88,
+                "currency": "USD",
+                "stock": 8
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "qxD6DSouWpCC3ueJ8WZp2",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.365Z",
+                "updatedAt": "2024-01-23T21:44:53.365Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "3MQUU0SM",
+                "name": "Sony Pavilion 15",
+                "brand": "Sony",
+                "model": "Pavilion 15",
+                "category": "Laptop",
+                "color": "Silver",
+                "price": 993.18,
+                "currency": "USD",
+                "stock": 154
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3ovcs54Lu4LLyBA2urMqUM",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.322Z",
+                "updatedAt": "2024-01-23T21:44:53.322Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "PWLDP9K7",
+                "name": "Samsung iPad Air",
+                "brand": "Samsung",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "Black",
+                "price": 1336.47,
+                "currency": "USD",
+                "stock": 148
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "26mZwF02H1V1HtItHpRIDI",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.289Z",
+                "updatedAt": "2024-01-23T21:44:53.289Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "R6EYBSED",
+                "name": "Apple X-T4",
+                "brand": "Apple",
+                "model": "X-T4",
+                "category": "Camera",
+                "color": "Green",
+                "price": 1339.27,
+                "currency": "USD",
+                "stock": 143
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "JRAe3WqOCmYObGAzA1X6O",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.257Z",
+                "updatedAt": "2024-01-23T21:44:53.257Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "95SPODBE",
+                "name": "Dell Watch Series 7",
+                "brand": "Dell",
+                "model": "Watch Series 7",
+                "category": "Smartwatch",
+                "color": "Green",
+                "price": 344.59,
+                "currency": "USD",
+                "stock": 125
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5fEsEN99m0m9A3monOI9Ub",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.224Z",
+                "updatedAt": "2024-01-23T21:44:53.224Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "D1H6P2W6",
+                "name": "Acer Gear S3",
+                "brand": "Acer",
+                "model": "Gear S3",
+                "category": "Smartwatch",
+                "color": "Blue",
+                "price": 452.7,
+                "currency": "USD",
+                "stock": 77
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "2p2Ren9fVZwnwZ7FY5MbEy",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.193Z",
+                "updatedAt": "2024-01-23T21:44:53.193Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "FIODDQS8",
+                "name": "Asus HD 450BT",
+                "brand": "Asus",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Purple",
+                "price": 1730.1,
+                "currency": "USD",
+                "stock": 150
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "10x7uJ2vkGpr0u2RQ3d3O0",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.160Z",
+                "updatedAt": "2024-01-23T21:44:53.160Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "LKLGEPBB",
+                "name": "HP OM-D E-M10",
+                "brand": "HP",
+                "model": "OM-D E-M10",
+                "category": "Camera",
+                "color": "Rose Gold",
+                "price": 999.16,
+                "currency": "USD",
+                "stock": 66
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5QAAMuDzw9ONP0O2gid83y",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.124Z",
+                "updatedAt": "2024-01-23T21:44:53.124Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "VBWX21YI",
+                "name": "Panasonic iPad Air",
+                "brand": "Panasonic",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "Black",
+                "price": 236.98,
+                "currency": "USD",
+                "stock": 7
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "5h7piKw3kUHu9nHWRhL5ij",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.087Z",
+                "updatedAt": "2024-01-23T21:44:53.087Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "VUYCO3CE",
+                "name": "HP Moto G7",
+                "brand": "HP",
+                "model": "Moto G7",
+                "category": "Smartphone",
+                "color": "White",
+                "price": 1608.24,
+                "currency": "USD",
+                "stock": 117
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "0TTPAEMpeVTst335HKjBH",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.054Z",
+                "updatedAt": "2024-01-23T21:44:53.054Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "EIXBLZAR",
+                "name": "LG iPad Air",
+                "brand": "LG",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "White",
+                "price": 1262.31,
+                "currency": "USD",
+                "stock": 93
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3kXrrRH1MkVSZDWBL0sMzE",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:53.022Z",
+                "updatedAt": "2024-01-23T21:44:53.022Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "SSM4IQLP",
+                "name": "Apple HD 450BT",
+                "brand": "Apple",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Rose Gold",
+                "price": 226.7,
+                "currency": "USD",
+                "stock": 53
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4CeloXtDVytuYeJTJbmf3j",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.988Z",
+                "updatedAt": "2024-01-23T21:44:52.988Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "1NHQQEA6",
+                "name": "Samsung iPhone 13",
+                "brand": "Samsung",
+                "model": "iPhone 13",
+                "category": "Smartphone",
+                "color": "Rose Gold",
+                "price": 727.9,
+                "currency": "USD",
+                "stock": 167
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "46hux9s9bNwCXuDVJ1sqJG",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.950Z",
+                "updatedAt": "2024-01-23T21:44:52.950Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "BD605TD3",
+                "name": "Asus iPad Air",
+                "brand": "Asus",
+                "model": "iPad Air",
+                "category": "Tablet",
+                "color": "Green",
+                "price": 530.86,
+                "currency": "USD",
+                "stock": 144
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1QdV8Y1wCybePx4zypRrPP",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.915Z",
+                "updatedAt": "2024-01-23T21:44:52.915Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "9TISWIX8",
+                "name": "Apple MacBook Pro",
+                "brand": "Apple",
+                "model": "MacBook Pro",
+                "category": "Laptop",
+                "color": "Gray",
+                "price": 103.38,
+                "currency": "USD",
+                "stock": 192
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "u6CfpGXeaT7wEijR7CXxC",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.880Z",
+                "updatedAt": "2024-01-23T21:44:52.880Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "P2EVLJ4A",
+                "name": "Sony Tab S7",
+                "brand": "Sony",
+                "model": "Tab S7",
+                "category": "Tablet",
+                "color": "Silver",
+                "price": 1918.85,
+                "currency": "USD",
+                "stock": 80
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "4SnbRbtREIkIZevyO4KcAJ",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.846Z",
+                "updatedAt": "2024-01-23T21:44:52.846Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "3WBSTHJ8",
+                "name": "Dell EOS R5",
+                "brand": "Dell",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Red",
+                "price": 1000.72,
+                "currency": "USD",
+                "stock": 2
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6BtN8mLgoDNlFT0x4jD11r",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.809Z",
+                "updatedAt": "2024-01-23T21:44:52.809Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "TC7UKAO2",
+                "name": "Asus ZenBook 14",
+                "brand": "Asus",
+                "model": "ZenBook 14",
+                "category": "Laptop",
+                "color": "White",
+                "price": 823.39,
+                "currency": "USD",
+                "stock": 36
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6LdBWv3rsKHP5ghFdYzCH8",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.772Z",
+                "updatedAt": "2024-01-23T21:44:52.772Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "BG66YUC3",
+                "name": "Dell HD 450BT",
+                "brand": "Dell",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Red",
+                "price": 97.2,
+                "currency": "USD",
+                "stock": 63
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "6Mde5CrgNp3zYZg9JGSczg",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.702Z",
+                "updatedAt": "2024-01-23T21:44:52.702Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "3JSOA4QB",
+                "name": "Dell Mi Watch",
+                "brand": "Dell",
+                "model": "Mi Watch",
+                "category": "Smartwatch",
+                "color": "Rose Gold",
+                "price": 1979.83,
+                "currency": "USD",
+                "stock": 37
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "3YOVKMKAd6LqEmTfQ38GGc",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.175Z",
+                "updatedAt": "2024-01-23T21:44:52.175Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "OJ3VPK7C",
+                "name": "Samsung HD 450BT",
+                "brand": "Samsung",
+                "model": "HD 450BT",
+                "category": "Headphones",
+                "color": "Blue",
+                "price": 1095.98,
+                "currency": "USD",
+                "stock": 56
+            }
+        },
+        {
+            "metadata": {
+                "tags": [],
+                "concepts": []
+            },
+            "sys": {
+                "space": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "9xs1613l9f7v"
+                    }
+                },
+                "id": "1wmXOAxCQXabOEJs0726L9",
+                "type": "Entry",
+                "createdAt": "2024-01-23T21:44:52.049Z",
+                "updatedAt": "2024-01-23T21:44:52.049Z",
+                "environment": {
+                    "sys": {
+                        "id": "master",
+                        "type": "Link",
+                        "linkType": "Environment"
+                    }
+                },
+                "publishedVersion": 1,
+                "revision": 1,
+                "contentType": {
+                    "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "product"
+                    }
+                },
+                "locale": "en-US"
+            },
+            "fields": {
+                "sku": "TG31HUXY",
+                "name": "Apple EOS R5",
+                "brand": "Apple",
+                "model": "EOS R5",
+                "category": "Camera",
+                "color": "Rose Gold",
+                "price": 1349.31,
+                "currency": "USD",
+                "stock": 64
+            }
+        }
+    ]
+}
