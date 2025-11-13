@@ -26,7 +26,7 @@ describe('TaskService', () => {
   });
 
   it('calls createOrUpdateProduct for every item in contentful-res.json', async () => {
-    const file = await import(process.cwd() + '/contentful-res.json');
+    const file = require(process.cwd() + '/contentful-res.json');
     const expected = Array.isArray(file.items) ? file.items.length : 100;
 
     await service.handleCron();
