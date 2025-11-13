@@ -1,14 +1,4 @@
-import {
-  Body,
-  Controller,
-  Delete,
-  Get,
-  Param,
-  Post,
-  Put,
-  Query,
-} from '@nestjs/common';
-import { CreateProductInput } from './model/product.input';
+import { Controller, Delete, Get, Param, Query } from '@nestjs/common';
 import { ProductService } from './product.service';
 import { ProductListInputDto } from '../dto/filter.dto';
 import { ApiOperation, ApiResponse } from '@nestjs/swagger';

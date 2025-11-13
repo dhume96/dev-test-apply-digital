@@ -51,7 +51,7 @@ describe('ProductService', () => {
     const created = { sku: 'NEW123', productName: 'New' };
 
     mockModel.findOne.mockResolvedValue(null);
-    mockModel.mockImplementationOnce((payload: any) => ({
+    mockModel.mockImplementationOnce(() => ({
       save: jest.fn().mockResolvedValue(created),
     }));
 
@@ -65,7 +65,6 @@ describe('ProductService', () => {
     const products = [{ sku: 'p1' }, { sku: 'p2' }];
     const page = 2;
     const limit = 3;
-    const skip = (page - 1) * limit;
 
     const expectedWhere = { isDeleted: false };
 

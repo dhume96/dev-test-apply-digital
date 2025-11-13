@@ -1,7 +1,6 @@
 import { HttpService } from '@nestjs/axios';
 import { Injectable, Logger } from '@nestjs/common';
 import { Cron } from '@nestjs/schedule';
-import { firstValueFrom } from 'rxjs';
 import { ProductService } from '../product/product.service';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';

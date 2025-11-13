@@ -1,9 +1,9 @@
-import { Injectable, Logger, NotFoundException } from '@nestjs/common';
+import { Injectable, Logger } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Product } from '../product/model/product.schema';
 import { Model } from 'mongoose';
 import { ProductPayload } from '../product/model/product.payload';
-import { ProductListInputDto, ReportInputDto } from '../dto/filter.dto';
+import { ReportInputDto } from '../dto/filter.dto';
 
 @Injectable()
 export class ReportService {
@@ -29,7 +29,8 @@ export class ReportService {
   async nonDeletedProductsReport(
     input: ReportInputDto,
   ): Promise<ProductPayload[]> {
-    const { dateFrom, dateTo } = input;
+    // const { dateFrom, dateTo } = input;
+    console.log(input);
 
     const where: any = { isDeleted: false };
 

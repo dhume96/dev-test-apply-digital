@@ -13,7 +13,7 @@ export class AuthController {
     status: 200,
     description: 'Return a generated token for accesing the reports endpoints',
   })
-  async login(@Body() user: TokenInputDto) {
+  login(@Body() user: TokenInputDto) {
     return this.authService.login(user);
   }
 }

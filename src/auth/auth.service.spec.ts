@@ -14,26 +14,29 @@ describe('AuthService', () => {
     }).compile();
 
     service = module.get<AuthService>(AuthService);
+
+    jest.spyOn(global.Math, 'random').mockReturnValue(0.123456789);
   });
 
   afterEach(() => {
     jest.clearAllMocks();
+    jest.spyOn(global.Math, 'random').mockRestore();
   });
 
   it('should be defined', () => {
     expect(service).toBeDefined();
   });
 
-  it('login should sign payload and return access_token', async () => {
-    const user = { username: 'alice', userId: 'uid123' };
+  it('login should sign payload and return access_token', () => {
+    const user = { username: 'alice' };
     const signed = 'signed-token';
     mockJwt.sign.mockReturnValue(signed);
 
-    const result = await service.login(user);
+    const result = service.login(user);
 
     expect(mockJwt.sign).toHaveBeenCalledWith({
       username: 'alice',
-      sub: 'uid123',
+      sub: '0.123456789',
     });
     expect(result).toEqual({ access_token: signed });
   });

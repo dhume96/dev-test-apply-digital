@@ -1,6 +1,7 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { AuthController } from './auth.controller';
 import { AuthService } from './auth.service';
+import { TokenInputDto } from 'src/dto/filter.dto';
 
 describe('AuthController', () => {
   let controller: AuthController;
@@ -30,7 +31,7 @@ describe('AuthController', () => {
     const expected = { access_token: 'token' };
     mockService.login.mockResolvedValue(expected);
 
-    const result = await controller.login(body as any);
+    const result = await controller.login(body as TokenInputDto);
 
     expect(mockService.login).toHaveBeenCalledWith(body);
     expect(result).toBe(expected);

@@ -1,5 +1,5 @@
 import { OmitType } from '@nestjs/swagger';
-import { IsString, IsNumber, IsBoolean } from 'class-validator';
+import { IsString, IsNumber } from 'class-validator';
 
 export class CreateProductInput {
   @IsString()
