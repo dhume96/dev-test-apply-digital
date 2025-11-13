@@ -23,6 +23,10 @@ which should show both running:
 
 ![](assets/20251113_100145_image.png)
 
+## ENV File
+
+Create a new file called `.env` in the root of the project and copy the contents of `.env.example` replacing any necessary config variables.
+
 ## Contentful API
 
 Due to an issue with the Contentful API not being available I had to mock the response with the products data. Luckily I had copied the response in a separate file so the file is included in the root of the project as `contentful-res.json`. This same file is used to mock the API call for the scheduled task however the code for the actual API is still in there but commented out.
