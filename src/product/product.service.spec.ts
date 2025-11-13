@@ -39,7 +39,10 @@ describe('ProductService', () => {
     const result = await service.createOrUpdateProduct(body);
 
     expect(mockModel.findOne).toHaveBeenCalledWith({ sku: body.sku });
-    expect(mockModel.findOneAndUpdate).toHaveBeenCalledWith({ sku: body.sku }, body);
+    expect(mockModel.findOneAndUpdate).toHaveBeenCalledWith(
+      { sku: body.sku },
+      body,
+    );
     expect(result).toBe(updated);
   });
 
@@ -48,7 +51,9 @@ describe('ProductService', () => {
     const created = { sku: 'NEW123', productName: 'New' };
 
     mockModel.findOne.mockResolvedValue(null);
-    mockModel.mockImplementationOnce((payload: any) => ({ save: jest.fn().mockResolvedValue(created) }));
+    mockModel.mockImplementationOnce((payload: any) => ({
+      save: jest.fn().mockResolvedValue(created),
+    }));
 
     const result = await service.createOrUpdateProduct(body);
 
@@ -67,7 +72,9 @@ describe('ProductService', () => {
     mockModel.find.mockImplementationOnce((where) => {
       expect(where).toEqual(expectedWhere);
       return {
-        skip: jest.fn().mockReturnValue({ limit: jest.fn().mockResolvedValue(products) }),
+        skip: jest
+          .fn()
+          .mockReturnValue({ limit: jest.fn().mockResolvedValue(products) }),
       };
     });
 
@@ -77,7 +84,12 @@ describe('ProductService', () => {
 
     expect(mockModel.find).toHaveBeenCalledWith(expectedWhere);
     expect(mockModel.countDocuments).toHaveBeenCalledWith(expectedWhere);
-    expect(result).toEqual({ data: products, total: 42, limit: Number(limit), offset: Number(page) });
+    expect(result).toEqual({
+      data: products,
+      total: 42,
+      limit: Number(limit),
+      offset: Number(page),
+    });
   });
 
   it('deleteProduct calls findOneAndUpdate with isDeleted and deletedDate and returns the promise result', async () => {

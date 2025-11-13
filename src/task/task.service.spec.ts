@@ -31,6 +31,8 @@ describe('TaskService', () => {
 
     await service.handleCron();
 
-    expect(mockProductService.createOrUpdateProduct).toHaveBeenCalledTimes(expected);
+    expect(mockProductService.createOrUpdateProduct).toHaveBeenCalledTimes(
+      expected,
+    );
   });
 });

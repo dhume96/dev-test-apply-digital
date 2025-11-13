@@ -23,9 +23,17 @@ which should show both running:
 
 ![](assets/20251113_100145_image.png)
 
+## Contentful API
+
+Due to an issue with the Contentful API not being available I had to mock the response with the products data. Luckily I had copied the response in a separate file so the file is included in the root of the project as `contentful-res.json`. This same file is used to mock the API call for the scheduled task however the code for the actual API is still in there but commented out.
+
 ## Postman Collection
 
 A postman collection called `Dev-Test-Apply-Digital.postman_collection.json` is included in the root of the project. It can be imported directly into Postman and will include the requests for all the endpoints in the API.
+
+## Swagger Docs
+
+The documentation can be accessed by going to `http://localhost:4000/api/docs`
 
 ## Generating a token to test the private endpoints
 

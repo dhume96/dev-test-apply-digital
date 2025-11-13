@@ -10,10 +10,7 @@ describe('AuthService', () => {
     mockJwt = { sign: jest.fn() };
 
     const module: TestingModule = await Test.createTestingModule({
-      providers: [
-        AuthService,
-        { provide: JwtService, useValue: mockJwt },
-      ],
+      providers: [AuthService, { provide: JwtService, useValue: mockJwt }],
     }).compile();
 
     service = module.get<AuthService>(AuthService);
@@ -34,7 +31,10 @@ describe('AuthService', () => {
 
     const result = await service.login(user);
 
-    expect(mockJwt.sign).toHaveBeenCalledWith({ username: 'alice', sub: 'uid123' });
+    expect(mockJwt.sign).toHaveBeenCalledWith({
+      username: 'alice',
+      sub: 'uid123',
+    });
     expect(result).toEqual({ access_token: signed });
   });
 });

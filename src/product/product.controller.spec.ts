@@ -8,7 +8,9 @@ describe('ProductController', () => {
 
   const mockService = {
     listProducts: jest.fn().mockResolvedValue([{ sku: 'sku1' }]),
-    deleteProduct: jest.fn().mockResolvedValue({ sku: 'sku1', isDeleted: true }),
+    deleteProduct: jest
+      .fn()
+      .mockResolvedValue({ sku: 'sku1', isDeleted: true }),
   } as Partial<ProductService>;
 
   beforeEach(async () => {

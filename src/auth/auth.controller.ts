@@ -5,11 +5,14 @@ import { TokenInputDto } from '../dto/filter.dto';
 
 @Controller('auth')
 export class AuthController {
-  constructor(private authService: AuthService) { }
+  constructor(private authService: AuthService) {}
 
   @Post('login')
   @ApiOperation({ summary: 'Token Generation' })
-  @ApiResponse({ status: 200, description: 'Return a generated token for accesing the reports endpoints' })
+  @ApiResponse({
+    status: 200,
+    description: 'Return a generated token for accesing the reports endpoints',
+  })
   async login(@Body() user: TokenInputDto) {
     return this.authService.login(user);
   }

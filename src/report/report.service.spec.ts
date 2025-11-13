@@ -40,7 +40,9 @@ describe('ReportService', () => {
 
       expect(mockModel.countDocuments).toHaveBeenCalledTimes(2);
       expect(mockModel.countDocuments).toHaveBeenNthCalledWith(1);
-      expect(mockModel.countDocuments).toHaveBeenNthCalledWith(2, { isDeleted: true });
+      expect(mockModel.countDocuments).toHaveBeenNthCalledWith(2, {
+        isDeleted: true,
+      });
       expect(result.deletedProductsPercentage).toBe(25);
     });
 
@@ -57,7 +59,10 @@ describe('ReportService', () => {
 
   describe('nonDeletedProductsReport', () => {
     it('returns non-deleted products', async () => {
-      const products = [{ sku: 'sku1', isDeleted: false }, { sku: 'sku2', isDeleted: false }];
+      const products = [
+        { sku: 'sku1', isDeleted: false },
+        { sku: 'sku2', isDeleted: false },
+      ];
       mockModel.find.mockResolvedValue(products);
 
       const input = { dateFrom: '2024-01-01', dateTo: '2024-12-31' };
