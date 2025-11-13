@@ -1,0 +1,263 @@
+{
+	"info": {
+		"_postman_id": "cd387e92-86b5-4b82-81cb-e1cbe3af56e1",
+		"name": "Dev Test Apply Digital",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8456061"
+	},
+	"item": [
+		{
+			"name": "Get Products Contentful",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://cdn.contentful.com/spaces/9xs1613l9f7v/environments/master/entries?access_token=I-ThsT55eE_B3sCUWEQyDT4VqVO3x__20ufuie9usns&content_type=product",
+					"protocol": "https",
+					"host": [
+						"cdn",
+						"contentful",
+						"com"
+					],
+					"path": [
+						"spaces",
+						"9xs1613l9f7v",
+						"environments",
+						"master",
+						"entries"
+					],
+					"query": [
+						{
+							"key": "access_token",
+							"value": "I-ThsT55eE_B3sCUWEQyDT4VqVO3x__20ufuie9usns"
+						},
+						{
+							"key": "content_type",
+							"value": "product"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "List Active Products",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/products/list?name=Apple&page=2&limit=3",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"products",
+						"list"
+					],
+					"query": [
+						{
+							"key": "name",
+							"value": "Apple"
+						},
+						{
+							"key": "category",
+							"value": "Laptop",
+							"disabled": true
+						},
+						{
+							"key": "priceMin",
+							"value": "0",
+							"disabled": true
+						},
+						{
+							"key": "priceMax",
+							"value": "150",
+							"disabled": true
+						},
+						{
+							"key": "page",
+							"value": "2"
+						},
+						{
+							"key": "limit",
+							"value": "3"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Product",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/products/O53YSHQL",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"products",
+						"O53YSHQL"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Report Non Deleted Products",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhbmllbCIsImlhdCI6MTc2Mjk4MDAwMX0.QEQBniqKzHULmu0oUcZ56shfJgcDyM8G_LmzdTNYCoE",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/reports/non-deleted-products?dateFrom=11-11-25&dateTo=11-13-25",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"reports",
+						"non-deleted-products"
+					],
+					"query": [
+						{
+							"key": "dateFrom",
+							"value": "11-11-25"
+						},
+						{
+							"key": "dateTo",
+							"value": "11-13-25"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Report Deleted Products",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhbmllbCIsImlhdCI6MTc2Mjk4MDAwMX0.QEQBniqKzHULmu0oUcZ56shfJgcDyM8G_LmzdTNYCoE",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/reports/deleted-products",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"reports",
+						"deleted-products"
+					],
+					"query": [
+						{
+							"key": "dateFrom",
+							"value": "11-11-25",
+							"disabled": true
+						},
+						{
+							"key": "dateTo",
+							"value": "11-13-25",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Generate Token",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\": \"name\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:4000/auth/login",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Report Low Stock Products",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhbmllbCIsImlhdCI6MTc2Mjk4MDAwMX0.QEQBniqKzHULmu0oUcZ56shfJgcDyM8G_LmzdTNYCoE",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:4000/reports/low-stock-products?stockLimit=150",
+					"host": [
+						"localhost"
+					],
+					"port": "4000",
+					"path": [
+						"reports",
+						"low-stock-products"
+					],
+					"query": [
+						{
+							"key": "stockLimit",
+							"value": "150"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

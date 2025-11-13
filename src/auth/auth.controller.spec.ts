@@ -26,7 +26,7 @@ describe('AuthController', () => {
   });
 
   it('login should call authService.login with body and return result', async () => {
-    const body = { username: 'user', password: 'pass' };
+    const body = { username: 'user' };
     const expected = { access_token: 'token' };
     mockService.login.mockResolvedValue(expected);
 

@@ -1,11 +1,52 @@
+## Apply Digital Back End Developer Test
+
+My name is Daniel Hume and I am really excited to be able to apply to the JavaScript position. This is a repo for the test which has a NestJS API with all the requirements from the PDF file.
+
+I developed the API using NestJS, MongoDB with Mongoose as the ORM and Swagger. I also used Docker so the application and the database can be run using docker-compose.
+
+## Running The Application
+
+Clone the repo for the API and run docker-compose in the same directory as the project root:
+
+```bash
+git clone git@github.com:dhume96/dev-test-apply-digital.git
+docker-compose up -d
+```
+
+This should create a container with both the server and the database and it should start them, in order to check that both are running the following command can be run:
+
+```bash
+docker ps
+```
+
+which should show both running:
+
+![](assets/20251113_100145_image.png)
+
+## Postman Collection
+
+A postman collection called `Dev-Test-Apply-Digital.postman_collection.json` is included in the root of the project. It can be imported directly into Postman and will include the requests for all the endpoints in the API.
+
+## Generating a token to test the private endpoints
+
+In order to consume the 3 reports endpoints a token must be generated and sent in the headers. The following endpoint can be used for this:
+
+```bash
+curl --location 'localhost:4000/auth/login' \
+--header 'Content-Type: application/json' \
+--data '{
+    "username": "name"
+}'
+
+```
+
+Note: This request is also un the Postman collection
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+<p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
